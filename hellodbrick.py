@@ -11,3 +11,7 @@ print("learn git")
 print("poda")
 
 print("17 dec")
+
+print("ley")
+
+print("padayapa")
